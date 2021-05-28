@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+  font-family: Helvetica, sans-serif;
+  border-width: 1px;
+  border-collapse: collapse;
+    
+}
+h1{
+    color: green;
+    font-family: sans-serif
+}
